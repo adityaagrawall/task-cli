@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Buy milk",
+        "status": "todo",
+        "createdAt": "2025-12-19 15:31:59",
+        "updatedAt": "2025-12-19 15:31:59"
+    },
+    {
+        "id": 2,
+        "description": "Learn Python and build CLI",
+        "status": "todo",
+        "createdAt": "2025-12-19 15:41:05",
+        "updatedAt": "2025-12-19 15:41:34"
+    },
+    {
+        "id": 3,
+        "description": "Write a poem",
+        "status": "done",
+        "createdAt": "2025-12-19 15:46:17",
+        "updatedAt": "2025-12-19 15:47:36"
+    }
+]
